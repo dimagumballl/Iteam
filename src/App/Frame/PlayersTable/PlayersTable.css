@@ -1,0 +1,7 @@
+.PlayersTable{
+    font-size: 30px;
+    color: white;
+}
+.PlayersTable>p{
+    margin-top: 20px;
+}

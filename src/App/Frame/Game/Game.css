@@ -1,0 +1,37 @@
+.Game{
+    width: 380px;
+
+    
+}
+
+.Game__Field{
+    width: 340px;
+    height: 340px;
+    background-color: rgb(68, 66, 94);
+    margin: 20px 20px 20px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.Game__Line_H{
+    position: relative;
+    height: 8px;
+    width: 355px;
+    border-radius: 8px;
+    background-color: rgb(169, 85, 193);
+}
+.Game__Line_V{
+   
+    position: relative;
+    height: 355px;
+    width: 8px;
+    border-radius: 8px;
+    background-color: rgb(169, 85, 193);
+}
+.Game__Line_W{
+    position: relative;
+    height: 320px;
+    width: 10px;
+    border-radius: 20px;
+    background-color: rgb(175, 61, 56);
+}
